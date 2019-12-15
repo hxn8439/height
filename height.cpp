@@ -1,4 +1,4 @@
-// Hamilton Nguyen 1000538439 Problem 2 06/24/2019
+
 
 #include <iostream>
 #include <vector>
